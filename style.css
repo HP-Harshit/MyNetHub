@@ -7,27 +7,13 @@ body{
     width: 100%;
     height: 100%;
     background-color: #ded9d8;
-    /* height: 100vh; */
 }
 
 .bodi{
     padding: 20px;
-    /* width: 95vw; */
-    /* height: 97vh; */
-    /* border: 2px solid rebeccapurple; */
-    /* top: 50%;
-    right: 50%; */
-    /* position: absolute; */
     text-align: center;
-    /* margin: 0 auto; */
-    /* margin: 20px; */
-    /* border-radius: 25px; */
-    /* background-color: blanchedalmond; */
 }
 
-/* .ax{
-    margin: 10%;
-} */
 
 .ax p{
     margin: 15px;
@@ -39,12 +25,9 @@ body{
 
 
 .me{
-    /* top: 20px; */
     text-align: center;
     margin: 0 auto;
     position: relative;
-    /* width: 400px;
-    height: 400px; */
 
 }
 
@@ -52,10 +35,6 @@ body{
     border-radius: 50%;
     width: 300px;
     height: 300px;
-    /* -webkit-mask-image: url("shape.jpg");
-    mask-image: url("shape.jpg");
-    -webkit-mask-repeat: no-repeat;
-    mask-repeat: no-repeat; */
 
 }
 
@@ -76,19 +55,11 @@ body{
 .links{
     text-align: center;
     margin: 0 auto;
-    /* width: 90vw; */
-    /* height: 90%; */
     display: flex;
     flex-direction: column;
-    /* justify-content: space-around; */
-    /* border: 1px solid red; */
 }
 
 .bttn{
-    /* text-align: center;
-    margin: 0 auto; */
-    /* flex-direction: column; */
-    /* height: 15%; */
     margin: 10px;
     padding: 8px;
     border-radius: 25px;
@@ -101,11 +72,11 @@ body{
     border: 1px solid rgb(98, 91, 98);
 }
 
-.bttn a{
-    text-decoration: none ;
+a{
+    text-decoration: none;
     color: black;
-    margin: 5px 10px;
 }
+
 
 
 
@@ -119,14 +90,3 @@ body{
 }
 
 } 
-
-/* 
-@media (max-width: 600px) and (min-width: 10px) {
-    .ax p{
-        margin: 15px;
-        padding: 10px;
-        font-family: 'Barlow', sans-serif;
-        font-size: xx-large;
-        font-weight: bolder;
-    }
-} */
