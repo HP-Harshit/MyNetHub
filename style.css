@@ -90,3 +90,14 @@ a{
 }
 
 } 
+
+.nav{
+    display:flex ;
+    justify-content: center;
+    margin: 5px;
+    padding: 3px;
+    font-family: 'Kanit', sans-serif;
+    font-size: larger;
+    font-weight: 500;
+
+}
